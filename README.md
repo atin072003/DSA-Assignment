@@ -32,8 +32,4 @@ example.](answers/q12.md)
 Find its time and space complexities. Explain with suitable example.](answers/q13.md) 
 14. [Find the median of two sorted arrays using binary search. Write its algorithm, program. 
 Find its time and space complexities. Explain with suitable example.](answers/q14.md) 
-15. [Find the k-th smallest element in a sorted matrix. Write its algorithm, program. Find its 
-time and space complexities. Explain with suitable example.](answers/q15.md)  
-16. [Find the majority element in an array that appears more than n/2 times. Write its 
-algorithm, program. Find its time and space complexities. Explain with suitable 
-example.](answers/q16.md)
+
