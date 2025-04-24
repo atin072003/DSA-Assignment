@@ -75,5 +75,37 @@ program. Find its time and space complexities. Explain with suitable example.](a
 33. [Explain the sliding window technique and its applications in array problems.](answers/q33.md)  
 34. [Solve the problem of finding the subarray sum equal to K using hashing. Write its 
 algorithm, program. Find its time and space complexities. Explain with suitable 
-example.](answers/q34.md) 
+example.](answers/q34.md)
+35. [Find the k-most frequent elements in an array using a priority queue. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.](answers/q35.md) 
+36. [Generate all subsets of a given array. Write its algorithm, program. Find its time and 
+space complexities. Explain with suitable example.](answers/q36.md) 
+37. [Find all unique combinations of numbers that sum to a target. Write its algorithm, 
+program. Find its time and space complexities. Explain with suitable example.](answers/q37.md) 
+38. [Generate all permutations of a given array. Write its algorithm, program. Find its time 
+and space complexities. Explain with suitable example.](answers/q38.md) 
+39. [Explain the difference between subsets and permutations with examples.](answers/q39.md) 
+40. [Solve the problem of finding the element with maximum frequency in an array. Write 
+its algorithm, program. Find its time and space complexities. Explain with suitable 
+example.](answers/q40.md) 
+41. [Write a program to find the maximum subarray sum using Kadane’s algorithm.](answers/q41.md) 
+42. [Explain the concept of dynamic programming and its use in solving the maximum 
+subarray problem.](answers/q42.md) 
+43. [Solve the problem of finding the top K frequent elements in an array. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.](answers/q43.md) 
+44. [How to find two numbers in an array that add up to a target using hashing. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.](answers/q44.md) 
+45. [Explain the concept of priority queues and their applications in algorithm design.](answers/q45.md) 
+46. [Write a program to find the longest palindromic substring in a given string. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.](answers/q46.md) 
+47. [Explain the concept of histogram problems and their applications in algorithm design.](answers/q47.md) 
+48. [Solve the problem of finding the next permutation of a given array. Write its algorithm, 
+program. Find its time and space complexities. Explain with suitable example.](answers/q48.md) 
+49. [How to find the intersection of two linked lists. Write its algorithm, program. Find its 
+time and space complexities. Explain with suitable example.](answers/q49.md) 
+50. [Explain the concept of equilibrium index and its applications in array problems.](answers/q50.md) 
 
