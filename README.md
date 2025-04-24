@@ -8,3 +8,32 @@ array. Write its algorithm, program. Find its time and space complexities. Expla
 suitable example.](answers/q2.md).
 3. [Solve the problem of finding the equilibrium index in an array. Write its algorithm, 
 program. Find its time and space complexities. Explain with suitable example.](answers/q3.md).
+4. [Check if an array can be split into two parts such that the sum of the prefix equals the 
+sum of the suffix. Write its algorithm, program. Find its time and space complexities. 
+Explain with suitable example.] 
+5. [Find the maximum sum of any subarray of size K in a given array. Write its algorithm, 
+program. Find its time and space complexities. Explain with suitable example.]  
+6. [Find the length of the longest substring without repeating characters. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.] 
+7. [Explain the sliding window technique and its use in string problems.]  
+8. [Find the longest palindromic substring in a given string. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example.] 
+9. [Find the longest common prefix among a list of strings. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example.]  
+10.[Generate all permutations of a given string. Write its algorithm, program. Find its time 
+and space complexities. Explain with suitable example.] 
+11. [Find two numbers in a sorted array that add up to a target. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example.] 
+12.[ Rearrange numbers into the lexicographically next greater permutation. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.] 
+13. [How to merge two sorted linked lists into one sorted list. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example.] 
+14. [Find the median of two sorted arrays using binary search. Write its algorithm, program. 
+Find its time and space complexities. Explain with suitable example.] 
+15. [Find the k-th smallest element in a sorted matrix. Write its algorithm, program. Find its 
+time and space complexities. Explain with suitable example.]  
+16. [Find the majority element in an array that appears more than n/2 times. Write its 
+algorithm, program. Find its time and space complexities. Explain with suitable 
+example.]
