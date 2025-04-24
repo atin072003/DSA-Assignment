@@ -21,6 +21,6 @@ example.](answers/q6.md)
 Find its time and space complexities. Explain with suitable example.](answers/q8.md)
 9. [Find the longest common prefix among a list of strings. Write its algorithm, program. 
 Find its time and space complexities. Explain with suitable example.](answers/q9.md)  
-10.[Generate all permutations of a given string. Write its algorithm, program. Find its time 
+10. [Generate all permutations of a given string. Write its algorithm, program. Find its time 
 and space complexities. Explain with suitable example.](answers/q10.md) 
 
