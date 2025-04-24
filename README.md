@@ -23,13 +23,4 @@ Find its time and space complexities. Explain with suitable example.](answers/q8
 Find its time and space complexities. Explain with suitable example.](answers/q9.md)  
 10.[Generate all permutations of a given string. Write its algorithm, program. Find its time 
 and space complexities. Explain with suitable example.](answers/q10.md) 
-11. [Find two numbers in a sorted array that add up to a target. Write its algorithm, program. 
-Find its time and space complexities. Explain with suitable example.](answers/q11.md) 
-12.[ Rearrange numbers into the lexicographically next greater permutation. Write its 
-algorithm, program. Find its time and space complexities. Explain with suitable 
-example.](answers/q12.md) 
-13. [How to merge two sorted linked lists into one sorted list. Write its algorithm, program. 
-Find its time and space complexities. Explain with suitable example.](answers/q13.md) 
-14. [Find the median of two sorted arrays using binary search. Write its algorithm, program. 
-Find its time and space complexities. Explain with suitable example.](answers/q14.md) 
 
